@@ -44,3 +44,19 @@ BSc AI Semester Notes Assistant
 ## Project Title
 
 Production-Grade RAG System with Hybrid Retrieval, Monitoring, Evaluation Pipeline & Local LLM Integration
+
+## How to Run the Project
+
+1. Clone the repository
+
+2. Create and activate virtual environment
+
+3. Install required packages using requirements.txt
+
+4. Start Ollama with llama3 model
+
+5. Run the Streamlit frontend using:
+
+streamlit run streamlit_app.py
+
+6. Ask questions from your PDF documents using the chatbot UI
